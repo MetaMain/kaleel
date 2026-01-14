@@ -23,4 +23,4 @@ Aug 2025: <em>CSC 492/592: Large Language Models</em>, a new AI course developed
 
 Jan 2025: <em>CSC 492/592: Machine Learning Security and Privacy</em>, a new AI course developed by Professor Kaleel is offered at URI for the first time.
 
-Aug 2024: Professor Kaleel joins Department of Computer Science and Statistics at the University of Rhode Island.
+Aug 2024: Professor Kaleel joins the Department of Computer Science and Statistics at the University of Rhode Island.
