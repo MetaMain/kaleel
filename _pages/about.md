@@ -11,6 +11,8 @@ Welcome to my website. I am Kaleel Mahmood, an Assistant Professor in the [Depar
 
 Recent News
 ======
+June 2026: Our [paper](https://ieeexplore.ieee.org/abstract/document/11519507) on adversarial machine learning was accepted in the journal of IEEE Security & Privacy.
+
 May 2026: Our proposal, <em>"Systemic Broadening Participation in Computing Interventions at the University of Rhode Island"</em> has been funded by Northeastern University's [Center for Inclusive Computing](https://cic.northeastern.edu/).  
 
 Nov 2025: Our [paper](https://arxiv.org/abs/2506.14582) on election security is accepted at <b>CCS'25</b>. The acceptance rate for CCS this year was 13.9% ([source](https://github.com/puzhuoliu/Computer-Security-Conference-Acceptance-Rate)).
