@@ -10,8 +10,8 @@
 main:
 
   - title: " RSAIL (Lab Members)"
-    permalink: https://metamain.github.io/kaleel/lab/
-    #url: /lab/
+    #permalink: https://metamain.github.io/kaleel/lab/
+    url: /lab/
     
   #- title: " Research and Publications"
   #  url: /publications/
