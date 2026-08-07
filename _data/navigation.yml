@@ -8,6 +8,10 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+
+  - title: " RSAIL (Lab Members)"
+    url: /lab/
+    
   - title: " Research and Publications"
     url: /publications/
 
