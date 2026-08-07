@@ -10,16 +10,17 @@
 main:
 
   - title: " RSAIL (Lab Members)"
-    url: /lab/
+    permalink: https://metamain.github.io/kaleel/lab/
+    #url: /lab/
     
-  - title: " Research and Publications"
-    url: /publications/
+  #- title: " Research and Publications"
+  #  url: /publications/
 
   #- title: "Talks"
   #  url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
